@@ -59,6 +59,7 @@ class Zircon
     WHOIS
     WHOWAS
     NUMERICREPLY
+    TWITCHCLIENT
   ].freeze
 
   def initialize(args = {})
